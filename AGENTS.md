@@ -1,5 +1,7 @@
 # RustDesk Guide
 
+> Mandatory first read: [for-ai/README.md](./for-ai/README.md). It is the YAGNI control-plane router; then follow the project-specific rules below.
+
 ## Project Layout
 
 ### Directory Structure
